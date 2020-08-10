@@ -1,0 +1,7 @@
+com\runner\test\Runnerclass.class
+com\additionals\test\Driversetup.class
+com\setup\test\BaseTest.class
+com\setup\test\Webactions.class
+com\stepdef\test\Stepdefinition.class
+com\steps\test\StepObject.class
+com\setup\test\Pagelocators.class
